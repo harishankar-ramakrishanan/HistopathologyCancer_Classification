@@ -11,8 +11,8 @@ Of these, 4769 test negative and 4422 test positive with IDC.
 
 ## MODELS USED:
 After splitting the dataset to train and test sets, 2 models were built on the histology dataset and their results are compared.
-    - CNN model
-    - DenseNet model (fine tuning)
+  - CNN model
+  - DenseNet model (fine tuning)
 
 ## INFERENCE:
   - CNN model was trained to get the accuracy of 87% and densenet with fine tuning of 90% and densenet coded with 91% testing accuracy
